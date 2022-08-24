@@ -1,4 +1,4 @@
-# hover zapatillas
+# HOVER ZAPATILLAS
 <h2>Efecto hover sobre card con zapatillas en fondo png </h2>
 
 
